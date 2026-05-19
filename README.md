@@ -1,30 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Armstrong&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&fontSize=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Armstrong&fontAlign=50&fontAlignY=42&color=0:0a0f1e,50:1a2744,100:1e3a5f&fontColor=c9d8f0&fontSize=62&animation=fadeIn"/>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Enthusiast;Building+Scalable+Digital+Experiences;Systems+%7C+Interfaces+%7C+Engineering;Creative+Developer+%26+Problem+Solver;Modern+Frontend+%26+Software+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&pause=1200&color=7CA4CC&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Software+Engineering;Scalable+Systems+%7C+Modern+Interfaces;Clean+Architecture+%7C+Thoughtful+Design;Curious+Builder.+Deliberate+Engineer." />
 </p>
 
-<p align="center">
+<br/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Computer%20Science-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Building-Future%20Systems-111827?style=for-the-badge"/>
-
-</p>
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1e3a5f&label=profile+views)
 
 </div>
 
 ---
 
-# ⚡ About
+<br/>
 
+## About
 
+```typescript
+const armstrong = {
   mission:
-    "Designing scalable systems, immersive interfaces and performance-driven digital experiences.",
+    "Designing scalable systems, immersive interfaces, and performance-driven digital experiences.",
 
   interests: [
     "Software Engineering",
@@ -45,89 +48,107 @@
   ],
 
   philosophy:
-    "Technology should feel intuitive, efficient and impactful."
-}
+    "Technology should feel intuitive, efficient, and impactful."
+};
 ```
+
+<br/>
 
 ---
 
-# 🚀 Tech Ecosystem
+## Tech Ecosystem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,c,cpp,java,bash,git,github,vscode,figma,firebase,mongodb,mysql,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,c,cpp,java,bash,git,github,vscode,figma,firebase,mongodb,mysql,linux&theme=dark" />
 
 </div>
 
+<br/>
+
 ---
 
-# 🧠 Domains of Interest
+## Domains of Interest
 
 <div align="center">
 
 | Engineering             | Systems           | Creative        |
 | ----------------------- | ----------------- | --------------- |
-| Software Architecture   | Operating Systems | UI/UX           |
+| Software Architecture   | Operating Systems | UI / UX Design  |
 | Frontend Engineering    | Networking        | Product Design  |
 | Web Technologies        | Databases         | Motion Design   |
 | Artificial Intelligence | Cloud Computing   | Creative Coding |
 
 </div>
 
+<br/>
+
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=7ca4cc&title_color=c9d8f0&text_color=8bafc7"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c9d8f0&text_color=8bafc7"/>
 
 </div>
 
+<br/>
+
 ---
 
-# 🔥 Contribution Activity
+## Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=1e3a5f&fire=7ca4cc&currStreakLabel=c9d8f0&sideLabels=8bafc7&currStreakNum=c9d8f0&sideNums=c9d8f0&dates=5a7a9a"/>
 
 </div>
 
+<br/>
+
 ---
 
-# ⚙️ Development Workflow
+## Development Workflow
 
 ```bash
 Think → Architect → Design → Build → Optimize → Deploy
 ```
 
----
-
-# 🛰️ Current Objectives
-
-* Building scalable digital products
-* Designing modern user interfaces
-* Improving engineering workflows
-* Exploring AI and intelligent systems
-* Creating immersive frontend experiences
+<br/>
 
 ---
 
-# 🏆 Engineering Principles
+## Current Objectives
 
-✨ Scalability First
-⚡ Performance Driven
-🧠 Systems Thinking
-🎨 Design Consistency
-🔒 Clean Architecture
-🚀 Continuous Improvement
+- Building scalable digital products
+- Designing modern, intentional user interfaces
+- Improving engineering workflows and developer tooling
+- Exploring AI systems and intelligent applications
+- Creating immersive, performance-conscious frontend experiences
+
+<br/>
 
 ---
 
-# 📈 Productivity Metrics
+## Engineering Principles
+
+```
+✦ Scalability First       — Systems should grow without breaking.
+✦ Performance Driven      — Speed is a feature, not an afterthought.
+✦ Systems Thinking        — Understand the whole before the parts.
+✦ Design Consistency      — Coherence earns trust.
+✦ Clean Architecture      — Maintainability is craftsmanship.
+✦ Continuous Improvement  — Ship, learn, iterate.
+```
+
+<br/>
+
+---
+
+## Productivity Overview
 
 <div align="center">
 
@@ -135,39 +156,48 @@ Think → Architect → Design → Build → Optimize → Deploy
 
 </div>
 
+<br/>
+
 ---
 
-# 🌍 Connect
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+<br/>
+
+---
+
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Armstrong-1e3a5f?style=flat-square&logo=github&logoColor=c9d8f0&labelColor=0d1117"/>
 </a>
 
 </div>
 
----
+<br/>
 
-# 🐍 Contribution Snake
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+> *"Et Deus regit quod regere non possum."*
+>
+> *And God controls what I cannot control.*
 
 </div>
 
----
-
-# 💭 Motto
-
-> *"Et Deus regit quod regere non possum."*
-> — *And God controls what I cannot control.*
-
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563eb,50:1e40af,100:0f172a"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e3a5f,50:1a2744,100:0a0f1e"/>
 
 </div>
