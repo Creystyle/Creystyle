@@ -22,9 +22,6 @@
 
 # ⚡ About
 
-```javascript
-const obinna = {
-  identity: "Creative Technologist",
 
   mission:
     "Designing scalable systems, immersive interfaces and performance-driven digital experiences.",
