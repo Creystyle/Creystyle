@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=OBINNA&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&fontSize=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Armstrong&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a8a,100:2563eb&fontColor=ffffff&fontSize=65&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Enthusiast;Building+Scalable+Digital+Experiences;Systems+%7C+Interfaces+%7C+Engineering;Creative+Developer+%26+Problem+Solver;Modern+Frontend+%26+Software+Engineering" />
