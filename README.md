@@ -89,9 +89,9 @@ const armstrong = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=1Creystyles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7ca4cc&title_color=c9d8f0&text_color=8bafc7&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=1Creystyles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7ca4cc&title_color=c9d8f0&text_color=8bafc7&count_private=true&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Creystyles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d8f0&text_color=8bafc7&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Creystyles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d8f0&text_color=8bafc7&cache_seconds=1800"/>
 
 </div>
 
