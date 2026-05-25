@@ -10,11 +10,11 @@
 
 <br/>
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
+![GitHub followers](https://img.shields.io/github/followers/1Creystyles?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
+![GitHub stars](https://img.shields.io/github/stars/1Creystyles?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
 &nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1e3a5f&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=1Creystyles&style=flat-square&color=1e3a5f&label=profile+views)
 
 </div>
 
@@ -89,9 +89,9 @@ const armstrong = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=7ca4cc&title_color=c9d8f0&text_color=8bafc7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=1Creystyles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=7ca4cc&title_color=c9d8f0&text_color=8bafc7"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c9d8f0&text_color=8bafc7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Creystyles&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c9d8f0&text_color=8bafc7"/>
 
 </div>
 
@@ -103,7 +103,7 @@ const armstrong = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=1e3a5f&fire=7ca4cc&currStreakLabel=c9d8f0&sideLabels=8bafc7&currStreakNum=c9d8f0&sideNums=c9d8f0&dates=5a7a9a"/>
+<img src="https://streak-stats.demolab.com?user=1Creystyles&theme=tokyonight&hide_border=true&background=00000000&ring=1e3a5f&fire=7ca4cc&currStreakLabel=c9d8f0&sideLabels=8bafc7&currStreakNum=c9d8f0&sideNums=c9d8f0&dates=5a7a9a"/>
 
 </div>
 
@@ -152,7 +152,7 @@ Think → Architect → Design → Build → Optimize → Deploy
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1Creystyles&theme=tokyonight"/>
 
 </div>
 
@@ -164,7 +164,7 @@ Think → Architect → Design → Build → Optimize → Deploy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/1Creystyles/1Creystyles/output/snake.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -176,7 +176,7 @@ Think → Architect → Design → Build → Optimize → Deploy
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/1Creystyles">
   <img src="https://img.shields.io/badge/GitHub-Armstrong-1e3a5f?style=flat-square&logo=github&logoColor=c9d8f0&labelColor=0d1117"/>
 </a>
 
