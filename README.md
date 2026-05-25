@@ -89,9 +89,9 @@ const armstrong = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=1Creystyles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=7ca4cc&title_color=c9d8f0&text_color=8bafc7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=1Creystyles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7ca4cc&title_color=c9d8f0&text_color=8bafc7&count_private=true&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Creystyles&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c9d8f0&text_color=8bafc7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Creystyles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d8f0&text_color=8bafc7&langs_count=8"/>
 
 </div>
 
@@ -103,7 +103,7 @@ const armstrong = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=1Creystyles&theme=tokyonight&hide_border=true&background=00000000&ring=1e3a5f&fire=7ca4cc&currStreakLabel=c9d8f0&sideLabels=8bafc7&currStreakNum=c9d8f0&sideNums=c9d8f0&dates=5a7a9a"/>
+<img src="https://streak-stats.demolab.com?user=1Creystyles&theme=tokyonight&hide_border=true&background=0d1117&ring=1e3a5f&fire=7ca4cc&currStreakLabel=c9d8f0&sideLabels=8bafc7&currStreakNum=c9d8f0&sideNums=c9d8f0&dates=5a7a9a"/>
 
 </div>
 
