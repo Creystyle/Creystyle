@@ -32,7 +32,6 @@ const armstrong = {
   interests: [
     "Software Engineering",
     "Computer Science",
-    "Frontend Systems",
     "Artificial Intelligence",
     "Human-Centered Design",
     "Interactive Technologies",
@@ -42,7 +41,7 @@ const armstrong = {
   currentlyExploring: [
     "Scalable Architectures",
     "Modern UI Engineering",
-    "Design Systems",
+    "Systems Design",
     "AI-powered Products",
     "Developer Tooling"
   ],
@@ -74,11 +73,8 @@ const armstrong = {
 
 | Engineering             | Systems           | Creative        |
 | ----------------------- | ----------------- | --------------- |
-| Software Architecture   | Operating Systems | UI / UX Design  |
-| Frontend Engineering    | Networking        | Product Design  |
-| Web Technologies        | Databases         | Motion Design   |
-| Artificial Intelligence | Cloud Computing   | Creative Coding |
-
+| Software Architecture   | Operating Systems | Creative Coding |
+| Artificial Intelligence | Networking        | Databases       |
 </div>
 
 <br/>
