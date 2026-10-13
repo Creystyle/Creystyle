@@ -59,7 +59,7 @@ const armstrong = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,c,cpp,java,bash,git,github,vscode,figma,firebase,mongodb,mysql,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,c,rust,mongodb,mysql,&theme=dark" />
 
 </div>
 
