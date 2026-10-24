@@ -10,11 +10,11 @@
 
 <br/>
 
-![GitHub followers](https://img.shields.io/github/followers/Creystyle?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
+![GitHub followers](https://img.shields.io/github/followers/crey-styles?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/Creystyle?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
+![GitHub stars](https://img.shields.io/github/stars/crey-styles?style=flat-square&logo=github&labelColor=0d1117&color=1e3a5f&logoColor=7ca4cc)
 &nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=Creystyle&style=flat-square&color=1e3a5f&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=crey-styles&style=flat-square&color=1e3a5f&label=profile+views)
 
 </div>
 
@@ -85,9 +85,9 @@ const armstrong = {
 
 <div align="center">
 
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Creystyle&theme=tokyonight"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crey-styles&theme=tokyonight"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Creystyle&theme=tokyonight"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crey-styles&theme=tokyonight"/>
 
 </div>
 <br/>
@@ -98,7 +98,7 @@ const armstrong = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Creystyle&theme=tokyonight&hide_border=true&background=0d1117&ring=1e3a5f&fire=7ca4cc&currStreakLabel=c9d8f0&sideLabels=8bafc7&currStreakNum=c9d8f0&sideNums=c9d8f0&dates=5a7a9a"/>
+<img src="https://streak-stats.demolab.com?user=crey-styles&theme=tokyonight&hide_border=true&background=0d1117&ring=1e3a5f&fire=7ca4cc&currStreakLabel=c9d8f0&sideLabels=8bafc7&currStreakNum=c9d8f0&sideNums=c9d8f0&dates=5a7a9a"/>
 
 </div>
 
@@ -147,7 +147,7 @@ Think → Architect → Design → Build → Optimize → Deploy
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Creystyle&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crey-styles&theme=tokyonight"/>
 
 </div>
 
@@ -159,7 +159,7 @@ Think → Architect → Design → Build → Optimize → Deploy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Creystyle/Creystyle/output/snake.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/crey-styles/crey-styles/output/snake.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -171,7 +171,7 @@ Think → Architect → Design → Build → Optimize → Deploy
 
 <div align="center">
 
-<a href="https://github.com/Creystyle">
+<a href="https://github.com/crey-styles">
   <img src="https://img.shields.io/badge/GitHub-Armstrong-1e3a5f?style=flat-square&logo=github&logoColor=c9d8f0&labelColor=0d1117"/>
 </a>
 
